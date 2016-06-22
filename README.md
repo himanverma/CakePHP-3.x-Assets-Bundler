@@ -22,7 +22,7 @@ Installation
 
 This version is for CakePHP 3, for other versions of CakePHP check the branches on Github.
 
-It is recommended to use composer to install: `"himanverma/cake3shrink": "~3.0"`.
+It is recommended to use composer to install: `"himanverma/cakephp-3.x-assets-bundler": "~3.0"`.
 Then enable your plugin in bootstrap.php `Plugin::load('Shrink');` or `Plugin::loadAll();`.
 
 You can also manually download Shrink and place into app/Plugin folder
